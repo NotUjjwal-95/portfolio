@@ -1,0 +1,5 @@
+[data-world="home"] {
+  --background: oklch(0.965 0.014 85);
+  --foreground: oklch(0.16 0.025 262);
+  /* ...you add: primary, accent, line, f-display, f-body */
+}

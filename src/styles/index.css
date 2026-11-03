@@ -1,1 +1,8 @@
 @import "tailwindcss";
+@import "../worlds/home/tokens.css";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  /* ...you add: primary, accent, line, and the two fonts */
+}

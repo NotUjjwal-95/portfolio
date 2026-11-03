@@ -1,3 +1,7 @@
 export default function App() {
-  return <h1>Hello</h1>;
+  return (
+    <div data-world="home" className = "bg-background text-foreground min-h-screen">
+    <h1>Hello</h1>
+    </div>
+  );
 }
