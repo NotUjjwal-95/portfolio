@@ -1,6 +1,0 @@
-{
-  "name": "Vite React Tailwind Scaffold",
-  "description": "Minimal Vite + React + TypeScript project with Tailwind CSS v4 and modular directory structure.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
