@@ -1,5 +1,36 @@
 [data-world="home"] {
-  --background: oklch(0.965 0.014 85);
-  --foreground: oklch(0.16 0.025 262);
-  /* ...you add: primary, accent, line, f-display, f-body */
+  /* Base */
+  --background: #f8f9ff;
+  --foreground: #2e2e2e;
+
+  /* Brand */
+  --primary: #4169e1;
+  --primary-foreground: #ffffff;
+  --accent: #dc143c;
+
+  /* Surfaces */
+  --muted: #e9ecf5;
+  --line: #d5d9e8;
+
+  /* Typography */
+  --f-display: "Orbitron", sans-serif;
+  --f-body: "Montserrat", sans-serif;
+}
+[data-world="test-dark"] {
+  /* Base */
+  --background: #15171e;
+  --foreground: #f8f9ff;
+
+  /* Brand */
+  --primary: #6388ff;
+  --primary-foreground: #ffffff;
+  --accent: #ff3158;
+
+  /* Surfaces */
+  --muted: #252936;
+  --line: #3a4050;
+
+  /* Typography */
+  --f-display: "Orbitron", sans-serif;
+  --f-body: "Montserrat", sans-serif;
 }
