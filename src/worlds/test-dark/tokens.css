@@ -1,0 +1,18 @@
+[data-world="test-dark"] {
+  /* Base */
+  --background: #15171e;
+  --foreground: #f8f9ff;
+
+  /* Brand */
+  --primary: #6388ff;
+  --primary-foreground: #ffffff;
+  --accent: #ff3158;
+
+  /* Surfaces */
+  --muted: #252936;
+  --line: #3a4050;
+
+  /* Typography */
+  --f-display: "JetBrains Mono", monospace;
+  --f-body: "JetBrains Mono", monospace;
+}
