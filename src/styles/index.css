@@ -1,14 +1,15 @@
+@import "tailwindcss";
+@import "../worlds/home/tokens.css";
+@import "../worlds/test-dark/tokens.css";
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-
   --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
   --color-accent: var(--accent);
-
   --color-muted: var(--muted);
   --color-line: var(--line);
-
   --font-display: var(--f-display);
   --font-body: var(--f-body);
 }
